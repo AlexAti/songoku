@@ -1,6 +1,5 @@
 /***************************************************************************
- *   Copyright (C) 2005 by Alejandro Atienza Ramos			   *
- *   atienzar256@yahoo.es						   *
+ *   Copyright (C) 2005 by AlexAti (github.com user)                       *
  *                                                                         *
  *   This program is free software; you can redistribute it and/or modify  *
  *   it under the terms of the GNU General Public License as published by  *

@@ -1,6 +1,5 @@
 /***************************************************************************
- *   Copyright (C) 2005 by Alejandro Atienza Ramos			   *
- *   atienzar256@yahoo.es						   *
+ *   Copyright (C) 2005 by AlexAti (github.com user)			   *
  *                                                                         *
  *   This program is free software; you can redistribute it and/or modify  *
  *   it under the terms of the GNU General Public License as published by  *
@@ -416,5 +415,4 @@ If inside a square a number is restricted to a column or row, those restrictions
 
 A fourth level would involve try-and-error methods.
 
-Alejandro Atienza Ramos
 */
